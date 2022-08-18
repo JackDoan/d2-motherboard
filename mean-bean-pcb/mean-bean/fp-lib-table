@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "D2")(type "KiCad")(uri "${KIPRJMOD}/D2.pretty")(options "")(descr ""))
+  (lib (name "PowerSO-16")(type "KiCad")(uri "/home/jack/git/d2-motherboard/PowerSO-16.pretty")(options "")(descr ""))
+)
